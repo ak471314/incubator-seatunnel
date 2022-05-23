@@ -26,7 +26,7 @@
 
     <modules>
         <module>seatunnel-flink-e2e</module>
-        <module>seatunnel-spark-e2e</module>
+        <!--<module>seatunnel-spark-e2e</module>-->
     </modules>
 
 </project>

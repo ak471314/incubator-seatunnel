@@ -29,7 +29,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>seatunnel-flink-examples</module>
-        <module>seatunnel-spark-examples</module>
+        <!--<module>seatunnel-spark-examples</module>-->
         <module>seatunnel-flink-sql-examples</module>
     </modules>
     <build>
